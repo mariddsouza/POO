@@ -1,2 +1,2 @@
 # POO
-Atividades da disciplina de Projeto e Análise de Algoritmos 
+Atividades da disciplina de Programação Orientada a Objetos
