@@ -1,0 +1,7 @@
+Mariana feminino 80 19 1.50
+Paulo masculino 80 22 1.75
+Luis masculino 60 20 1.80
+Ana feminino 70 18 1.69
+Gabriel masculino 75 27 1.90
+Laura feminino 80 22 1.50
+
